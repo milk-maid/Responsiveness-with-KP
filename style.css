@@ -16,11 +16,11 @@ body {
   width: 80%;
   margin: 0 auto;
 
-  padding: 5em;
+  padding: 4em;
   /* height: 300px; */
 }
 
-/* .intro-content {
+.intro-content {
   width: 60%;
-  padding: 5em;
-} */
+  /* padding: 5em; */
+}
