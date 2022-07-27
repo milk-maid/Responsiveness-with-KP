@@ -24,18 +24,26 @@ html {
     margin: 0;
   }
   
-  .container {
+  .intro {
     background: #23424a;
     color: white;
-  
+    padding: 50px 0;
+  }
+
+  .container {
     width: 80%;
+    max-width: 750px;
     margin: 0 auto;
-  
-    padding: 2em;
+    /* height: 300px; */
+  }
+
+  .wrapper {
+    width: 80%;
+    max-width: 750px;
+    margin: 0 auto;
     /* height: 300px; */
   }
 
   .intro-content {
     width: 50%;
   }
-  
