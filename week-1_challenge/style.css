@@ -6,3 +6,38 @@
   body {
     margin: 0;
   }
+
+  .container {
+    background: #23424a;
+    color: white;
+    padding: 110px 0;
+  }
+
+  .wrapper {
+    width: 80%;
+    max-width: 750px;
+    margin: 0 auto;
+  }
+
+  .content {
+    width: 60%;
+  }
+
+  .content p {
+    margin-bottom: 60px;
+    font-size: smaller;
+    opacity: 0.6;
+  }
+
+  a {
+    text-transform: uppercase;
+    color:#072a2d;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .btn  {
+    background: #38CFD9;
+    padding: .5em 2em;
+    border-radius: 50px;
+  }
