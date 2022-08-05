@@ -1,6 +1,6 @@
 # Responsiveness-with-KP
 
-Week 1 Final Task done in **21DaysOfResponsiveness** joined on *<[Kevin Powell] (<https://courses.kevinpowell.co/>)>* on one of  *my quest for knowledge*
+Week 1 Final Task done in **21DaysOfResponsiveness** joined on *<[Kevin Powell](https://courses.kevinpowell.com)>* on one of  *my quest for knowledge*
 
 ## Technologies
 
