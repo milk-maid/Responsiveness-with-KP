@@ -73,10 +73,38 @@ header {
     padding: .5em 0;
 }
 
+.logo {
+    margin-left: 1em;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    /* border: 3px solid yellow; */
+    align-items: center;
+}
+
+/* .logo {
+    margin-right: 1em;
+} */
+
 .nav__list {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: flex;   
+    /* justify-content: space-between;   */
+    /* border: 2px solid red;   */
+    font-size: .9rem;
+}
+
+.nav__list--primary {
+    margin: 0 auto;
+}
+
+.nav__item + .nav__item {
+    margin-left: 1em;
 }
 
 .nav__link {
