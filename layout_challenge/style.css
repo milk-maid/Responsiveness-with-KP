@@ -49,7 +49,16 @@ img {
 
 .aside {
     width: 47%;
-    line-height: 1.3;
+}
+
+.aside > p {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    line-height: 1.5;
+}
+
+.heading {
+    font-family: 'Playfair Display', serif;
 }
 
 .upper {
